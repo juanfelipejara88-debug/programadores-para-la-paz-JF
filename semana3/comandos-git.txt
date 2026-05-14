@@ -1,0 +1,7 @@
+pwd
+cd
+commit
+git add
+push 
+repositorio 
+mkdir
